@@ -12,5 +12,9 @@
         "psr-4": {
             "IPRIT\\BotanSDK\\": "src"
         }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
     }
 }
