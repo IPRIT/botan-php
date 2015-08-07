@@ -18,7 +18,6 @@ To get started, get [Composer](http://getcomposer.org/download/).
 
 Usage
 -----
-0. Now you can use wrapper
 Create [Yandex.AppMetrica](https://appmetrica.yandex.com/) api token and insert into $token variable.
  ```php
  private $token = 'token';
