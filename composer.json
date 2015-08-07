@@ -1,0 +1,16 @@
+{
+    "name": "IPRIT/botan-php",
+    "description": "PHP SDK for Botan.io",
+    "keywords": ["telegram", "bot", "api", "botan", "botanio", "botan.io", "sdk", "stats"],
+    "license": "BSD-3-Clause",
+    "homepage": "http://github.com/IPRIT/botan-php",
+    "authors": [{
+        "name": "Aleksandr Belov",
+        "email": "ipritoflex7@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "IPRIT\\BotanSDK\\": "src"
+        }
+    }
+}
