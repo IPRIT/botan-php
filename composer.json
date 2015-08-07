@@ -1,7 +1,9 @@
 {
     "name": "iprit/botan-php",
     "description": "PHP SDK for Botan.io",
-    "keywords": ["telegram", "bot", "api", "botan", "botanio", "botan.io", "sdk", "stats"],
+    "keywords": [
+        "telegram", "bot", "api", "botan", "botanio", "botan.io", "sdk", "stats"
+    ],
     "license": "BSD-3-Clause",
     "type": "library",
     "homepage": "http://github.com/IPRIT/botan-php",
