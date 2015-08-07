@@ -7,11 +7,11 @@ To get started, get [Composer](http://getcomposer.org/download/).
 
  Run:
  ```
- $ php composer.phar require IPRIT/botan-php:*
+ $ php composer.phar require iprit/botan-php:*
  ```
  or add
  ```
- "IPRIT/botan-php": "*"
+ "iprit/botan-php": "*"
  ```
  to the `require` section of your `composer.json` file.
 
