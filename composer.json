@@ -3,6 +3,7 @@
     "description": "PHP SDK for Botan.io",
     "keywords": ["telegram", "bot", "api", "botan", "botanio", "botan.io", "sdk", "stats"],
     "license": "BSD-3-Clause",
+    "type": "library",
     "homepage": "http://github.com/IPRIT/botan-php",
     "authors": [{
         "name": "Aleksandr Belov",
@@ -13,7 +14,6 @@
             "IPRIT\\BotanSDK\\": "src"
         }
     },
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
     }
