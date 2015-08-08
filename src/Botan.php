@@ -23,8 +23,8 @@ namespace IPRIT\BotanSDK;
 class Botan {
 
     /**
-    * @var string Tracker url
-    */
+     * @var string Tracker url
+     */
     protected $template_uri = 'https://api.botan.io/track?token=#TOKEN&uid=#UID&name=#NAME';
 
     /**
