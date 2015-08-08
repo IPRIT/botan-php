@@ -1,4 +1,4 @@
-PHP SDK for [Botan.io](Botan.io)
+PHP SDK for [Botan.io](http://botan.io)
 ================
 
 Installation
